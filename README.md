@@ -30,7 +30,7 @@ _Coming soon_
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/NotiFlex.git
+   git clone https://github.com/albert-mr/notiflex.git
    cd NotiFlex
    ```
 
