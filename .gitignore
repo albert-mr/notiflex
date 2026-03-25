@@ -59,5 +59,8 @@ ios/Flutter/Flutter.podspec
 # Claude Code
 .claude/
 
+# gstack (security reports, analytics)
+.gstack/
+
 # macOS
 *.DS_Store
